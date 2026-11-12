@@ -1,0 +1,121 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Region,ProductID,ProductName,Category,Quantity,UnitPrice,DiscountPercent,TotalAmount,PaymentMethod,OrderStatus
+5001,2025-12-14,102,Rohan Mehta,Mumbai,West,210,Dumbbell Set,Fitness,2,2199,20,3518.4,Net Banking,Delivered
+5002,2025-08-23,108,Arjun Das,Kolkata,East,212,Bluetooth Speaker,Electronics,4,1999,10,7196.4,Credit Card,Delivered
+5003,2025-04-22,104,Vikram Reddy,Hyderabad,South,210,Dumbbell Set,Fitness,3,2199,10,5937.3,Net Banking,Delivered
+5004,2025-10-06,102,Rohan Mehta,Mumbai,West,202,Mechanical Keyboard,Electronics,4,2499,20,7996.8,Debit Card,Returned
+5005,2025-12-01,107,Meera Nair,Kochi,South,209,Yoga Mat,Fitness,3,999,10,2697.3,Cash on Delivery,Returned
+5006,2025-07-16,107,Meera Nair,Kochi,South,203,USB-C Hub,Electronics,3,1799,0,5397.0,Debit Card,Returned
+5007,2025-01-23,112,Kabir Singh,Bhopal,Central,209,Yoga Mat,Fitness,2,999,5,1898.1,UPI,Cancelled
+5008,2025-04-11,107,Meera Nair,Kochi,South,207,Water Bottle,Home,2,399,15,678.3,Cash on Delivery,Delivered
+5009,2025-06-30,107,Meera Nair,Kochi,South,207,Water Bottle,Home,3,399,15,1017.45,Cash on Delivery,Delivered
+5010,2025-10-17,110,Dev Patel,Ahmedabad,West,208,Desk Lamp,Home,3,1199,10,3237.3,Debit Card,Delivered
+5011,2025-08-01,108,Arjun Das,Kolkata,East,206,Backpack,Accessories,1,1499,15,1274.15,Cash on Delivery,Delivered
+5012,2025-02-21,105,Neha Sharma,Delhi,North,204,Running Shoes,Fashion,2,3299,15,5608.3,UPI,Shipped
+5013,2025-12-20,101,Aditi Rao,Pune,West,206,Backpack,Accessories,2,1499,0,2998.0,Net Banking,Cancelled
+5014,2025-07-10,101,Aditi Rao,Pune,West,211,Coffee Maker,Home,3,3499,0,10497.0,UPI,Delivered
+5015,2025-10-19,107,Meera Nair,Kochi,South,211,Coffee Maker,Home,2,3499,0,6998.0,Net Banking,Cancelled
+5016,2025-05-27,110,Dev Patel,Ahmedabad,West,204,Running Shoes,Fashion,4,3299,20,10556.8,Debit Card,Cancelled
+5017,2025-03-03,105,Neha Sharma,Delhi,North,203,USB-C Hub,Electronics,1,1799,0,1799.0,Cash on Delivery,Cancelled
+5018,2025-08-21,110,Dev Patel,Ahmedabad,West,207,Water Bottle,Home,2,399,0,798.0,Debit Card,Shipped
+5019,2025-09-27,108,Arjun Das,Kolkata,East,211,Coffee Maker,Home,3,3499,10,9447.3,Credit Card,Shipped
+5020,2025-04-05,104,Vikram Reddy,Hyderabad,South,211,Coffee Maker,Home,3,3499,15,8922.45,UPI,Returned
+5021,2025-12-21,112,Kabir Singh,Bhopal,Central,210,Dumbbell Set,Fitness,4,2199,0,8796.0,Credit Card,Delivered
+5022,2025-08-29,109,Sara Khan,Lucknow,North,207,Water Bottle,Home,3,399,5,1137.15,UPI,Cancelled
+5023,2025-04-26,105,Neha Sharma,Delhi,North,205,Cotton T-Shirt,Fashion,3,599,0,1797.0,UPI,Delivered
+5024,2025-06-10,109,Sara Khan,Lucknow,North,208,Desk Lamp,Home,2,1199,0,2398.0,Credit Card,Delivered
+5025,2025-06-24,109,Sara Khan,Lucknow,North,211,Coffee Maker,Home,1,3499,15,2974.15,Debit Card,Cancelled
+5026,2025-06-11,102,Rohan Mehta,Mumbai,West,209,Yoga Mat,Fitness,3,999,5,2847.15,Net Banking,Cancelled
+5027,2025-06-16,102,Rohan Mehta,Mumbai,West,205,Cotton T-Shirt,Fashion,3,599,0,1797.0,Credit Card,Delivered
+5028,2025-12-26,101,Aditi Rao,Pune,West,211,Coffee Maker,Home,2,3499,20,5598.4,Credit Card,Delivered
+5029,2025-01-15,103,Kavya Iyer,Chennai,South,203,USB-C Hub,Electronics,4,1799,0,7196.0,Credit Card,Shipped
+5030,2025-08-17,112,Kabir Singh,Bhopal,Central,206,Backpack,Accessories,1,1499,15,1274.15,Debit Card,Delivered
+5031,2025-02-21,111,Ananya Bose,Bengaluru,South,209,Yoga Mat,Fitness,3,999,10,2697.3,Cash on Delivery,Cancelled
+5032,2025-03-18,109,Sara Khan,Lucknow,North,212,Bluetooth Speaker,Electronics,2,1999,5,3798.1,Credit Card,Delivered
+5033,2025-03-27,104,Vikram Reddy,Hyderabad,South,209,Yoga Mat,Fitness,3,999,15,2547.45,Cash on Delivery,Delivered
+5034,2025-06-14,103,Kavya Iyer,Chennai,South,212,Bluetooth Speaker,Electronics,4,1999,10,7196.4,Net Banking,Cancelled
+5035,2025-07-08,111,Ananya Bose,Bengaluru,South,201,Wireless Mouse,Electronics,1,799,15,679.15,Debit Card,Delivered
+5036,2025-03-21,102,Rohan Mehta,Mumbai,West,203,USB-C Hub,Electronics,2,1799,0,3598.0,Net Banking,Delivered
+5037,2025-02-06,103,Kavya Iyer,Chennai,South,208,Desk Lamp,Home,4,1199,0,4796.0,Credit Card,Delivered
+5038,2025-01-17,107,Meera Nair,Kochi,South,209,Yoga Mat,Fitness,3,999,10,2697.3,UPI,Shipped
+5039,2025-12-09,102,Rohan Mehta,Mumbai,West,212,Bluetooth Speaker,Electronics,1,1999,15,1699.15,UPI,Shipped
+5040,2025-12-14,110,Dev Patel,Ahmedabad,West,202,Mechanical Keyboard,Electronics,2,2499,15,4248.3,Cash on Delivery,Delivered
+5041,2025-08-07,109,Sara Khan,Lucknow,North,210,Dumbbell Set,Fitness,2,2199,15,3738.3,Debit Card,Cancelled
+5042,2025-02-13,111,Ananya Bose,Bengaluru,South,205,Cotton T-Shirt,Fashion,4,599,0,2396.0,Debit Card,Delivered
+5043,2025-10-22,104,Vikram Reddy,Hyderabad,South,210,Dumbbell Set,Fitness,2,2199,5,4178.1,UPI,Delivered
+5044,2025-08-26,111,Ananya Bose,Bengaluru,South,202,Mechanical Keyboard,Electronics,4,2499,10,8996.4,Debit Card,Delivered
+5045,2025-03-12,111,Ananya Bose,Bengaluru,South,203,USB-C Hub,Electronics,4,1799,20,5756.8,Debit Card,Returned
+5046,2025-09-22,110,Dev Patel,Ahmedabad,West,208,Desk Lamp,Home,4,1199,0,4796.0,UPI,Cancelled
+5047,2025-05-08,109,Sara Khan,Lucknow,North,209,Yoga Mat,Fitness,1,999,5,949.05,Cash on Delivery,Cancelled
+5048,2025-08-04,110,Dev Patel,Ahmedabad,West,212,Bluetooth Speaker,Electronics,3,1999,0,5997.0,Credit Card,Delivered
+5049,2025-04-28,107,Meera Nair,Kochi,South,209,Yoga Mat,Fitness,4,999,5,3796.2,Cash on Delivery,Delivered
+5050,2025-11-15,109,Sara Khan,Lucknow,North,209,Yoga Mat,Fitness,2,999,10,1798.2,Debit Card,Delivered
+5051,2025-08-10,109,Sara Khan,Lucknow,North,205,Cotton T-Shirt,Fashion,3,599,5,1707.15,Cash on Delivery,Delivered
+5052,2025-06-17,103,Kavya Iyer,Chennai,South,205,Cotton T-Shirt,Fashion,1,599,10,539.1,Cash on Delivery,Shipped
+5053,2025-08-19,103,Kavya Iyer,Chennai,South,203,USB-C Hub,Electronics,1,1799,5,1709.05,UPI,Returned
+5054,2025-04-16,108,Arjun Das,Kolkata,East,210,Dumbbell Set,Fitness,4,2199,15,7476.6,Net Banking,Delivered
+5055,2025-09-25,107,Meera Nair,Kochi,South,211,Coffee Maker,Home,4,3499,15,11896.6,UPI,Delivered
+5056,2025-07-23,109,Sara Khan,Lucknow,North,208,Desk Lamp,Home,2,1199,20,1918.4,UPI,Returned
+5057,2025-08-04,103,Kavya Iyer,Chennai,South,211,Coffee Maker,Home,2,3499,0,6998.0,Credit Card,Shipped
+5058,2025-11-27,109,Sara Khan,Lucknow,North,211,Coffee Maker,Home,1,3499,20,2799.2,Cash on Delivery,Delivered
+5059,2025-01-02,106,Ishaan Verma,Jaipur,North,212,Bluetooth Speaker,Electronics,3,1999,10,5397.3,Cash on Delivery,Delivered
+5060,2025-04-18,112,Kabir Singh,Bhopal,Central,202,Mechanical Keyboard,Electronics,4,2499,0,9996.0,Net Banking,Shipped
+5061,2025-12-20,110,Dev Patel,Ahmedabad,West,210,Dumbbell Set,Fitness,2,2199,0,4398.0,UPI,Delivered
+5062,2025-07-01,109,Sara Khan,Lucknow,North,212,Bluetooth Speaker,Electronics,4,1999,20,6396.8,UPI,Shipped
+5063,2025-08-29,102,Rohan Mehta,Mumbai,West,205,Cotton T-Shirt,Fashion,4,599,10,2156.4,Cash on Delivery,Cancelled
+5064,2025-05-27,102,Rohan Mehta,Mumbai,West,202,Mechanical Keyboard,Electronics,1,2499,10,2249.1,UPI,Delivered
+5065,2025-03-29,102,Rohan Mehta,Mumbai,West,211,Coffee Maker,Home,2,3499,10,6298.2,UPI,Shipped
+5066,2025-05-23,109,Sara Khan,Lucknow,North,210,Dumbbell Set,Fitness,3,2199,20,5277.6,Cash on Delivery,Cancelled
+5067,2025-01-11,101,Aditi Rao,Pune,West,211,Coffee Maker,Home,4,3499,0,13996.0,UPI,Cancelled
+5068,2025-01-25,107,Meera Nair,Kochi,South,207,Water Bottle,Home,1,399,10,359.1,Debit Card,Returned
+5069,2025-06-05,111,Ananya Bose,Bengaluru,South,202,Mechanical Keyboard,Electronics,4,2499,15,8496.6,Credit Card,Shipped
+5070,2025-12-16,102,Rohan Mehta,Mumbai,West,202,Mechanical Keyboard,Electronics,2,2499,0,4998.0,UPI,Shipped
+5071,2025-03-12,101,Aditi Rao,Pune,West,207,Water Bottle,Home,4,399,5,1516.2,Debit Card,Delivered
+5072,2025-03-18,112,Kabir Singh,Bhopal,Central,207,Water Bottle,Home,3,399,15,1017.45,Credit Card,Returned
+5073,2025-09-01,112,Kabir Singh,Bhopal,Central,201,Wireless Mouse,Electronics,3,799,5,2277.15,Debit Card,Delivered
+5074,2025-03-16,112,Kabir Singh,Bhopal,Central,202,Mechanical Keyboard,Electronics,1,2499,20,1999.2,UPI,Shipped
+5075,2025-02-09,105,Neha Sharma,Delhi,North,210,Dumbbell Set,Fitness,1,2199,10,1979.1,Net Banking,Delivered
+5076,2025-08-05,106,Ishaan Verma,Jaipur,North,207,Water Bottle,Home,4,399,15,1356.6,Debit Card,Returned
+5077,2025-02-27,107,Meera Nair,Kochi,South,207,Water Bottle,Home,3,399,20,957.6,UPI,Shipped
+5078,2025-08-30,106,Ishaan Verma,Jaipur,North,205,Cotton T-Shirt,Fashion,1,599,20,479.2,Debit Card,Delivered
+5079,2025-08-07,107,Meera Nair,Kochi,South,209,Yoga Mat,Fitness,2,999,15,1698.3,Debit Card,Delivered
+5080,2025-11-23,111,Ananya Bose,Bengaluru,South,211,Coffee Maker,Home,3,3499,5,9972.15,Cash on Delivery,Delivered
+5081,2025-01-28,105,Neha Sharma,Delhi,North,205,Cotton T-Shirt,Fashion,2,599,5,1138.1,Credit Card,Delivered
+5082,2025-12-21,110,Dev Patel,Ahmedabad,West,211,Coffee Maker,Home,3,3499,0,10497.0,Cash on Delivery,Delivered
+5083,2025-11-02,105,Neha Sharma,Delhi,North,208,Desk Lamp,Home,4,1199,20,3836.8,Credit Card,Shipped
+5084,2025-08-11,108,Arjun Das,Kolkata,East,211,Coffee Maker,Home,2,3499,20,5598.4,Cash on Delivery,Delivered
+5085,2025-04-26,107,Meera Nair,Kochi,South,211,Coffee Maker,Home,3,3499,15,8922.45,Cash on Delivery,Cancelled
+5086,2025-01-24,108,Arjun Das,Kolkata,East,205,Cotton T-Shirt,Fashion,3,599,0,1797.0,UPI,Shipped
+5087,2025-03-24,105,Neha Sharma,Delhi,North,210,Dumbbell Set,Fitness,2,2199,5,4178.1,Cash on Delivery,Delivered
+5088,2025-10-21,111,Ananya Bose,Bengaluru,South,201,Wireless Mouse,Electronics,1,799,20,639.2,UPI,Delivered
+5089,2025-12-14,105,Neha Sharma,Delhi,North,208,Desk Lamp,Home,2,1199,0,2398.0,Net Banking,Delivered
+5090,2025-03-20,112,Kabir Singh,Bhopal,Central,209,Yoga Mat,Fitness,2,999,15,1698.3,Credit Card,Delivered
+5091,2025-02-12,109,Sara Khan,Lucknow,North,208,Desk Lamp,Home,2,1199,5,2278.1,Net Banking,Shipped
+5092,2025-08-14,103,Kavya Iyer,Chennai,South,202,Mechanical Keyboard,Electronics,4,2499,20,7996.8,Debit Card,Cancelled
+5093,2025-10-19,112,Kabir Singh,Bhopal,Central,203,USB-C Hub,Electronics,1,1799,10,1619.1,Credit Card,Delivered
+5094,2025-08-04,111,Ananya Bose,Bengaluru,South,206,Backpack,Accessories,3,1499,0,4497.0,Credit Card,Shipped
+5095,2025-01-17,107,Meera Nair,Kochi,South,211,Coffee Maker,Home,1,3499,0,3499.0,Cash on Delivery,Delivered
+5096,2025-11-24,107,Meera Nair,Kochi,South,208,Desk Lamp,Home,2,1199,5,2278.1,Net Banking,Cancelled
+5097,2025-01-07,111,Ananya Bose,Bengaluru,South,206,Backpack,Accessories,1,1499,20,1199.2,Cash on Delivery,Returned
+5098,2025-12-14,102,Rohan Mehta,Mumbai,West,212,Bluetooth Speaker,Electronics,2,1999,20,3198.4,Debit Card,Delivered
+5099,2025-05-01,110,Dev Patel,Ahmedabad,West,201,Wireless Mouse,Electronics,1,799,10,719.1,UPI,Returned
+5100,2025-03-07,108,Arjun Das,Kolkata,East,211,Coffee Maker,Home,4,3499,0,13996.0,Cash on Delivery,Shipped
+5101,2025-01-09,110,Dev Patel,Ahmedabad,West,204,Running Shoes,Fashion,1,3299,5,3134.05,Cash on Delivery,Delivered
+5102,2025-07-30,104,Vikram Reddy,Hyderabad,South,205,Cotton T-Shirt,Fashion,3,599,15,1527.45,Debit Card,Returned
+5103,2025-06-25,103,Kavya Iyer,Chennai,South,210,Dumbbell Set,Fitness,4,2199,5,8356.2,Debit Card,Delivered
+5104,2025-09-18,103,Kavya Iyer,Chennai,South,210,Dumbbell Set,Fitness,2,2199,0,4398.0,Net Banking,Returned
+5105,2025-05-21,102,Rohan Mehta,Mumbai,West,202,Mechanical Keyboard,Electronics,1,2499,10,2249.1,Net Banking,Delivered
+5106,2025-07-09,104,Vikram Reddy,Hyderabad,South,207,Water Bottle,Home,2,399,10,718.2,Debit Card,Returned
+5107,2025-04-26,103,Kavya Iyer,Chennai,South,206,Backpack,Accessories,1,1499,0,1499.0,UPI,Cancelled
+5108,2025-04-14,108,Arjun Das,Kolkata,East,209,Yoga Mat,Fitness,3,999,10,2697.3,Credit Card,Delivered
+5109,2025-12-26,105,Neha Sharma,Delhi,North,209,Yoga Mat,Fitness,3,999,5,2847.15,Credit Card,Cancelled
+5110,2025-07-08,101,Aditi Rao,Pune,West,210,Dumbbell Set,Fitness,4,2199,0,8796.0,UPI,Returned
+5111,2025-02-02,101,Aditi Rao,Pune,West,201,Wireless Mouse,Electronics,2,799,15,1358.3,Cash on Delivery,Delivered
+5112,2025-08-01,111,Ananya Bose,Bengaluru,South,207,Water Bottle,Home,3,399,5,1137.15,Debit Card,Delivered
+5113,2025-12-03,101,Aditi Rao,Pune,West,207,Water Bottle,Home,2,399,15,678.3,Cash on Delivery,Delivered
+5114,2025-03-27,110,Dev Patel,Ahmedabad,West,211,Coffee Maker,Home,1,3499,5,3324.05,UPI,Cancelled
+5115,2025-03-10,110,Dev Patel,Ahmedabad,West,203,USB-C Hub,Electronics,4,1799,0,7196.0,UPI,Returned
+5116,2025-01-30,103,Kavya Iyer,Chennai,South,206,Backpack,Accessories,4,1499,5,5696.2,Cash on Delivery,Delivered
+5117,2025-01-01,103,Kavya Iyer,Chennai,South,203,USB-C Hub,Electronics,3,1799,10,4857.3,Debit Card,Shipped
+5118,2025-07-26,102,Rohan Mehta,Mumbai,West,201,Wireless Mouse,Electronics,4,799,0,3196.0,Debit Card,Delivered
+5119,2025-12-04,109,Sara Khan,Lucknow,North,205,Cotton T-Shirt,Fashion,3,599,15,1527.45,UPI,Delivered
+5120,2025-03-16,107,Meera Nair,Kochi,South,203,USB-C Hub,Electronics,1,1799,0,1799.0,Net Banking,Delivered
